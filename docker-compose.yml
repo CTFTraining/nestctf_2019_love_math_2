@@ -1,0 +1,12 @@
+version: "2"
+
+services:
+
+  web:
+    build: .
+    image: ctftraining/nestctf_2019_love_math_2
+    restart: always
+    ports:
+      - "127.0.0.1:8302:80"
+    environment:
+      - FLAG=flag{glzjin_wants_a_girl_firend}
