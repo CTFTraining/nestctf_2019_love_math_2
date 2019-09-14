@@ -1,8 +1,8 @@
-# CISCN 2019 初赛 Love Math
+# NESTCTF 2019 Love Math2
 
 ## 题目详情
 
-- **CISCN 2019 初赛 Love Math**
+- **NESTCTF 2019 Love Math2**
 
 ## 考点
 
